@@ -23,3 +23,4 @@ Outside of work, I enjoy making electronic music, writing poetry and running. Iâ
 
 Thanks for visiting my site!
 
+</div>
