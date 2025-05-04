@@ -15,7 +15,7 @@ Recently, I’ve been working on a project analysing trends in New York Times Fi
 - Learn more about how to present analyses in an accessible and compelling way  
 - Continue exploring user experience and how to create insightful, exciting data visualisations
   
-<h2 style="color:#2a6fdb; font-size:1.25rem;">👋 Personal Interests</h2>
+<h2 style="color:#2a6fdb; font-size:1.25rem;"> Personal Interests</h2>
 
 Outside of work, I enjoy making electronic music, writing poetry, and running. I’m also deeply interested in AI ethics, especially through the lens of philosophy and psychology, and I’d love to pursue research in this area in the future.
 
