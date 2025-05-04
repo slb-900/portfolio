@@ -7,7 +7,7 @@ title: About Me
 
 <h2 style="color:#2a6fdb; font-size:1.25rem;">About Me</h2>
 
-<p>My name is Seán Lennard, and I'm based in London, UK. I’m currently studying for a Professional Certificate in Data Analytics at Imperial College Business School Executive Education, after completing my BA in Philosophy at the University of Manchester. I’ll soon begin working as a Data Analyst in Finance.</p>
+<p>My name is Seán Lennard and I'm based in London, UK. I’m currently studying for a Professional Certificate in Data Analytics at Imperial College Business School Executive Education, after completing my BA in Philosophy at the University of Manchester. I’ll soon begin working as a Data Analyst in Finance.</p>
 
 <p>Recently, I’ve been working on a project analysing trends in New York Times Fiction Bestsellers based on genre and theme.</p>
 
@@ -15,7 +15,7 @@ title: About Me
 
 <ul>
   <li>Expand my skills in data analysis, including proficiency in Python, SQL and Tableau</li>
-  <li>Learn more about how to present analyses in an accessible and compelling way</li>
+  <li>Learn more about how to present analyses in an accessible way</li>
   <li>Continue exploring user experience and how to create insightful, exciting data visualisations</li>
 </ul>
 
