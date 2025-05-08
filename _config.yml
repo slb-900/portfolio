@@ -1,12 +1,14 @@
 # Build settings
 
 port: 4000
-markdown:  kramdown
+markdown: kramdown
 permalink: /:title
-plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
+plugins: [jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-
-title:		   "Seán Lennard"
+title: "Seán Lennard"
 description: "Data Analysis | Poetry & AI Ethics "
-author:      "Seán Lennard"
+author: "Seán Lennard"
+
+url: "https://slb-900.github.io"
+baseurl: "/portfolio"
+
