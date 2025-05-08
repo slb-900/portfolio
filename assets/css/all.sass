@@ -17,3 +17,14 @@ $documentBackgroundColor: #fff
 @import '1-tools/-tools-dir'
 @import '2-base/-base-dir'
 @import '3-sections/-sections-dir'
+
+nav
+  a
+    color: $textColor
+    text-decoration: none
+
+    &.active
+      color: $accent-color
+      font-weight: bold
+      border-bottom: 2px solid $accent-color
+
