@@ -4,6 +4,6 @@ title: Contact
 permalink: /contact
 ---
 
-# Contact
+See my email, LinkedIn and GitHub below. 
 
 
