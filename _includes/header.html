@@ -4,7 +4,12 @@
   </div>
   <nav>
     {% for item in site.data.settings.menu %}
-      <a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a>
+      {% assign current_url = page.url | remove: '/' %}
+      {% assign menu_url = item.url | remove: '/' %}
+      <a href="{{ site.github.url }}/{{ item.url }}" class="{% if current_url == menu_url %}active{% endif %}">
+        {{ item.name }}
+      </a>
     {% endfor %}
   </nav>
 </header>
+
