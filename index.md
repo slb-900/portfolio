@@ -3,7 +3,7 @@ layout: default
 title: About Me
 ---
 
-<div style="padding-top: 80px;">
+<div style="padding-top: 40px;">
 
 <h2 style="color:#2a6fdb; font-size:1.25rem;">About Me</h2>
 
