@@ -4,6 +4,4 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
-
-See home page for more about me.
+See home page for more about me!
